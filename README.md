@@ -2,7 +2,9 @@
 AgarrArte, demo desarrollada en Processing para ver obras de arte clasificadas por decadas y conceptos, interactuando con Leap Motion. 
 
 https://processing.org/download/
+
 https://github.com/nok/leap-motion-processing
+
 https://developer.leapmotion.com/get-started/
 
 Instalar el controlador del LEAP MOTION
