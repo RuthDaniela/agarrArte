@@ -1,6 +1,8 @@
 # agarrArte
 AgarrArte, demo desarrollada en Processing para ver obras de arte clasificadas por decadas y conceptos, interactuando con Leap Motion. 
 
+Señalando con el indice una decada se muestra la imagen de una pieza. Colocando la mano sobre las palabras y cerrando la mano, en forma de puño, aparecen imagenes que tienen relación conceptual.
+
 https://processing.org/download/
 
 https://github.com/nok/leap-motion-processing
